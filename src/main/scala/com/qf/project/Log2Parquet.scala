@@ -104,6 +104,7 @@ object Log2Parquet {
     })
     val dataFrame = sparkSession.createDataFrame(rowRDD,Schema.structType)
     dataFrame.write.parquet("out")
+
     sparkSession.stop()
   }
 }
