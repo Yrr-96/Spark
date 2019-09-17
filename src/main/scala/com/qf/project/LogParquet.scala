@@ -1,5 +1,5 @@
 package com.qf.project
 
-object Demo {
+object LogParquet {
 
 }
