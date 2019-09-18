@@ -1,6 +1,4 @@
-package com.qf.project
-
-import org.apache.spark.sql.types._
+package com.qf.project;
 
 object Schema {
   val structType = StructType(
