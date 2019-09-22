@@ -1,8 +1,12 @@
-package com.qf.project;
+package com.qf.util
 
-object Schema {
+import org.apache.spark.sql.types._
+
+
+object SchemaUtil {
+
   val structType = StructType(
-    List(
+    Seq(
       StructField("sessionid", StringType),
       StructField("advertisersid", IntegerType),
       StructField("adorderid", IntegerType),
@@ -88,7 +92,8 @@ object Schema {
       StructField("callbackdate", StringType),
       StructField("channelid", StringType),
       StructField("mediatype", IntegerType)
+
     )
   )
-  structType
 }
+

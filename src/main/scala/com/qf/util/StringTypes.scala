@@ -1,6 +1,10 @@
-package com.qf.project
+package com.qf.util
 
-object String2Type {
+
+/**
+  * 类型工具类
+  */
+object StringTypes {
 
   def toInt(str:String):Int={
     try{
@@ -18,3 +22,4 @@ object String2Type {
     }
   }
 }
+
