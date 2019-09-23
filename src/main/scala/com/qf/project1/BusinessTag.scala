@@ -10,7 +10,6 @@ import org.apache.spark.sql.Row
     override def makeTags(args: Any*): List[(String, Int)] = {
       var list = List[(String,Int)]()
 
-
       val row = args(0).asInstanceOf[Row]
 
       if(StringTypes.toDouble(row.getAs[String]("long")) >=73

@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7909d85-75a2-4161-ae32-f4c6d8531728" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out2/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out2/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out2/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out2/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=上海市/cityname=上海市/.part-00103-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=上海市/cityname=上海市/part-00103-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=云南省/cityname=临沧市/.part-00051-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=云南省/cityname=临沧市/part-00051-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=云南省/cityname=文山壮族苗族自治州/.part-00078-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=云南省/cityname=文山壮族苗族自治州/part-00078-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=云南省/cityname=昆明市/.part-00114-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=云南省/cityname=昆明市/part-00114-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=云南省/cityname=昭通市/.part-00125-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=云南省/cityname=昭通市/part-00125-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=云南省/cityname=玉溪市/.part-00015-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=云南省/cityname=玉溪市/part-00015-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=云南省/cityname=西双版纳傣族自治州/.part-00112-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=云南省/cityname=西双版纳傣族自治州/part-00112-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=内蒙古自治区/cityname=乌兰察布市/.part-00122-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=内蒙古自治区/cityname=乌兰察布市/part-00122-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=内蒙古自治区/cityname=包头市/.part-00172-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=内蒙古自治区/cityname=包头市/part-00172-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=内蒙古自治区/cityname=呼和浩特市/.part-00155-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=内蒙古自治区/cityname=呼和浩特市/part-00155-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=内蒙古自治区/cityname=巴彦淖尔市/.part-00009-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=内蒙古自治区/cityname=巴彦淖尔市/part-00009-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=内蒙古自治区/cityname=赤峰市/.part-00028-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=内蒙古自治区/cityname=赤峰市/part-00028-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=内蒙古自治区/cityname=通辽市/.part-00184-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=内蒙古自治区/cityname=通辽市/part-00184-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=内蒙古自治区/cityname=鄂尔多斯市/.part-00191-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=内蒙古自治区/cityname=鄂尔多斯市/part-00191-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=北京市/cityname=北京市/.part-00066-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=北京市/cityname=北京市/part-00066-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=吉林省/cityname=吉林市/.part-00189-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=吉林省/cityname=吉林市/part-00189-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=吉林省/cityname=四平市/.part-00095-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=吉林省/cityname=四平市/part-00095-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=吉林省/cityname=延边朝鲜族自治州/.part-00142-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=吉林省/cityname=延边朝鲜族自治州/part-00142-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=吉林省/cityname=松原市/.part-00145-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=吉林省/cityname=松原市/part-00145-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=吉林省/cityname=辽源市/.part-00089-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=吉林省/cityname=辽源市/part-00089-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=吉林省/cityname=通化市/.part-00061-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=吉林省/cityname=通化市/part-00061-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=吉林省/cityname=长春市/.part-00130-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=吉林省/cityname=长春市/part-00130-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=乐山市/.part-00031-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=乐山市/part-00031-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=内江市/.part-00148-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=内江市/part-00148-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=凉山彝族自治州/.part-00174-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=凉山彝族自治州/part-00174-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=南充市/.part-00129-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=南充市/part-00129-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=宜宾市/.part-00195-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=宜宾市/part-00195-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=广元市/.part-00003-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=广元市/part-00003-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=德阳市/.part-00070-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=德阳市/part-00070-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=成都市/.part-00120-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=成都市/part-00120-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=泸州市/.part-00056-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=泸州市/part-00056-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=甘孜藏族自治州/.part-00065-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=甘孜藏族自治州/part-00065-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=眉山市/.part-00024-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=眉山市/part-00024-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=绵阳市/.part-00014-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=绵阳市/part-00014-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=自贡市/.part-00188-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=自贡市/part-00188-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=资阳市/.part-00005-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=资阳市/part-00005-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=达州市/.part-00051-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=达州市/part-00051-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=遂宁市/.part-00168-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=遂宁市/part-00168-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=雅安市/.part-00007-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=四川省/cityname=雅安市/part-00007-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=天津市/cityname=天津市/.part-00069-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=天津市/cityname=天津市/part-00069-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=宁夏回族自治区/cityname=固原市/.part-00072-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=宁夏回族自治区/cityname=固原市/part-00072-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=宁夏回族自治区/cityname=石嘴山市/.part-00006-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=宁夏回族自治区/cityname=石嘴山市/part-00006-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=宁夏回族自治区/cityname=银川市/.part-00071-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=宁夏回族自治区/cityname=银川市/part-00071-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=亳州市/.part-00071-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=亳州市/part-00071-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=合肥市/.part-00063-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=合肥市/part-00063-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=安庆市/.part-00035-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=安庆市/part-00035-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=宣城市/.part-00032-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=宣城市/part-00032-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=宿州市/.part-00008-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=宿州市/part-00008-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=未知/.part-00120-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=未知/part-00120-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=淮北市/.part-00135-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=淮北市/part-00135-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=淮南市/.part-00137-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=淮南市/part-00137-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=滁州市/.part-00019-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=滁州市/part-00019-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=芜湖市/.part-00119-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=芜湖市/part-00119-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=蚌埠市/.part-00091-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=蚌埠市/part-00091-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=铜陵市/.part-00099-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=铜陵市/part-00099-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=阜阳市/.part-00053-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=阜阳市/part-00053-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=黄山市/.part-00152-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=安徽省/cityname=黄山市/part-00152-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=东营市/.part-00175-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=东营市/part-00175-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=临沂市/.part-00045-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=临沂市/part-00045-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=威海市/.part-00146-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=威海市/part-00146-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=德州市/.part-00184-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=德州市/part-00184-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=日照市/.part-00087-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=日照市/part-00087-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=未知/.part-00188-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=未知/part-00188-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=枣庄市/.part-00085-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=枣庄市/part-00085-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=泰安市/.part-00079-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=泰安市/part-00079-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=济南市/.part-00080-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=济南市/part-00080-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=济宁市/.part-00017-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=济宁市/part-00017-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=淄博市/.part-00033-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=淄博市/part-00033-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=滨州市/.part-00083-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=滨州市/part-00083-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=潍坊市/.part-00189-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=潍坊市/part-00189-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=烟台市/.part-00123-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=烟台市/part-00123-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=聊城市/.part-00068-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=聊城市/part-00068-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=莱芜市/.part-00030-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=莱芜市/part-00030-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=菏泽市/.part-00012-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=菏泽市/part-00012-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=青岛市/.part-00068-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山东省/cityname=青岛市/part-00068-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=临汾市/.part-00060-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=临汾市/part-00060-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=吕梁市/.part-00181-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=吕梁市/part-00181-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=太原市/.part-00056-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=太原市/part-00056-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=忻州市/.part-00120-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=忻州市/part-00120-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=晋中市/.part-00024-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=晋中市/part-00024-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=晋城市/.part-00066-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=晋城市/part-00066-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=运城市/.part-00075-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=运城市/part-00075-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=长治市/.part-00139-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=长治市/part-00139-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=阳泉市/.part-00001-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=山西省/cityname=阳泉市/part-00001-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=东莞市/.part-00022-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=东莞市/part-00022-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=中山市/.part-00019-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=中山市/part-00019-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=云浮市/.part-00159-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=云浮市/part-00159-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=佛山市/.part-00116-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=佛山市/part-00116-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=广州市/.part-00182-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=广州市/part-00182-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=惠州市/.part-00151-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=惠州市/part-00151-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=揭阳市/.part-00034-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=揭阳市/part-00034-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=梅州市/.part-00128-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=梅州市/part-00128-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=汕头市/.part-00118-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=汕头市/part-00118-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=江门市/.part-00069-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=江门市/part-00069-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=深圳市/.part-00088-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=深圳市/part-00088-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=清远市/.part-00113-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=清远市/part-00113-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=湛江市/.part-00014-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=湛江市/part-00014-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=珠海市/.part-00130-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=珠海市/part-00130-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=肇庆市/.part-00088-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=肇庆市/part-00088-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=茂名市/.part-00078-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=茂名市/part-00078-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=阳江市/.part-00041-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=阳江市/part-00041-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=韶关市/.part-00152-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广东省/cityname=韶关市/part-00152-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=北海市/.part-00021-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=北海市/part-00021-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=南宁市/.part-00035-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=南宁市/part-00035-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=崇左市/.part-00025-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=崇左市/part-00025-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=柳州市/.part-00018-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=柳州市/part-00018-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=桂林市/.part-00154-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=桂林市/part-00154-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=梧州市/.part-00181-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=梧州市/part-00181-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=河池市/.part-00115-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=河池市/part-00115-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=玉林市/.part-00056-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=玉林市/part-00056-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=百色市/.part-00139-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=百色市/part-00139-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=贵港市/.part-00112-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=广西壮族自治区/cityname=贵港市/part-00112-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=新疆维吾尔自治区/cityname=乌鲁木齐市/.part-00111-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=新疆维吾尔自治区/cityname=乌鲁木齐市/part-00111-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=新疆维吾尔自治区/cityname=未知/.part-00131-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=新疆维吾尔自治区/cityname=未知/part-00131-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=未知/cityname=未知/.part-00097-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=未知/cityname=未知/part-00097-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=南京市/.part-00095-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=南京市/part-00095-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=南通市/.part-00112-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=南通市/part-00112-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=宿迁市/.part-00143-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=宿迁市/part-00143-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=常州市/.part-00195-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=常州市/part-00195-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=徐州市/.part-00040-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=徐州市/part-00040-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=扬州市/.part-00098-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=扬州市/part-00098-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=无锡市/.part-00116-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=无锡市/part-00116-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=未知/.part-00022-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=未知/part-00022-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=泰州市/.part-00022-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=泰州市/part-00022-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=淮安市/.part-00181-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=淮安市/part-00181-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=盐城市/.part-00065-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=盐城市/part-00065-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=苏州市/.part-00145-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=苏州市/part-00145-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=连云港市/.part-00104-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=连云港市/part-00104-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=镇江市/.part-00182-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江苏省/cityname=镇江市/part-00182-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=上饶市/.part-00160-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=上饶市/part-00160-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=九江市/.part-00065-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=九江市/part-00065-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=南昌市/.part-00044-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=南昌市/part-00044-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=吉安市/.part-00121-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=吉安市/part-00121-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=宜春市/.part-00024-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=宜春市/part-00024-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=抚州市/.part-00025-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=抚州市/part-00025-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=景德镇市/.part-00038-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=景德镇市/part-00038-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=未知/.part-00023-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=未知/part-00023-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=萍乡市/.part-00190-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=萍乡市/part-00190-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=赣州市/.part-00040-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=江西省/cityname=赣州市/part-00040-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=保定市/.part-00192-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=保定市/part-00192-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=唐山市/.part-00098-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=唐山市/part-00098-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=廊坊市/.part-00101-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=廊坊市/part-00101-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=张家口市/.part-00057-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=张家口市/part-00057-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=承德市/.part-00180-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=承德市/part-00180-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=沧州市/.part-00117-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=沧州市/part-00117-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=石家庄市/.part-00144-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=石家庄市/part-00144-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=秦皇岛市/.part-00063-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=秦皇岛市/part-00063-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=衡水市/.part-00148-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=衡水市/part-00148-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=邢台市/.part-00050-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=邢台市/part-00050-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=邯郸市/.part-00150-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河北省/cityname=邯郸市/part-00150-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=三门峡市/.part-00009-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=三门峡市/part-00009-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=信阳市/.part-00042-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=信阳市/part-00042-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=南阳市/.part-00156-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=南阳市/part-00156-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=周口市/.part-00014-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=周口市/part-00014-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=商丘市/.part-00185-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=商丘市/part-00185-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=安阳市/.part-00035-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=安阳市/part-00035-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=平顶山市/.part-00083-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=平顶山市/part-00083-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=开封市/.part-00108-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=开封市/part-00108-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=新乡市/.part-00081-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=新乡市/part-00081-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=洛阳市/.part-00024-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=洛阳市/part-00024-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=漯河市/.part-00120-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=漯河市/part-00120-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=濮阳市/.part-00069-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=濮阳市/part-00069-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=焦作市/.part-00154-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=焦作市/part-00154-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=许昌市/.part-00043-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=许昌市/part-00043-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=郑州市/.part-00114-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=河南省/cityname=郑州市/part-00114-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=丽水市/.part-00108-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=丽水市/part-00108-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=台州市/.part-00149-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=台州市/part-00149-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=嘉兴市/.part-00039-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=嘉兴市/part-00039-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=宁波市/.part-00112-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=宁波市/part-00112-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=未知/.part-00148-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=未知/part-00148-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=杭州市/.part-00179-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=杭州市/part-00179-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=温州市/.part-00114-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=温州市/part-00114-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=湖州市/.part-00184-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=湖州市/part-00184-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=绍兴市/.part-00111-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=绍兴市/part-00111-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=舟山市/.part-00178-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=舟山市/part-00178-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=衢州市/.part-00042-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=衢州市/part-00042-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=金华市/.part-00093-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=浙江省/cityname=金华市/part-00093-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=海南省/cityname=未知/.part-00068-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=海南省/cityname=未知/part-00068-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=海南省/cityname=海口市/.part-00057-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=海南省/cityname=海口市/part-00057-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖北省/cityname=十堰市/.part-00139-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖北省/cityname=十堰市/part-00139-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖北省/cityname=咸宁市/.part-00005-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖北省/cityname=咸宁市/part-00005-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖北省/cityname=宜昌市/.part-00082-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖北省/cityname=宜昌市/part-00082-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖北省/cityname=未知/.part-00055-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖北省/cityname=未知/part-00055-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖北省/cityname=武汉市/.part-00188-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖北省/cityname=武汉市/part-00188-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖北省/cityname=荆州市/.part-00185-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖北省/cityname=荆州市/part-00185-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖北省/cityname=襄樊市/.part-00114-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖北省/cityname=襄樊市/part-00114-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖北省/cityname=黄冈市/.part-00112-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖北省/cityname=黄冈市/part-00112-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=娄底市/.part-00040-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=娄底市/part-00040-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=岳阳市/.part-00062-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=岳阳市/part-00062-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=常德市/.part-00110-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=常德市/part-00110-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=张家界市/.part-00036-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=张家界市/part-00036-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=怀化市/.part-00062-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=怀化市/part-00062-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=永州市/.part-00144-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=永州市/part-00144-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=湘潭市/.part-00058-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=湘潭市/part-00058-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=湘西土家族苗族自治州/.part-00175-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=湘西土家族苗族自治州/part-00175-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=益阳市/.part-00094-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=益阳市/part-00094-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=衡阳市/.part-00018-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=衡阳市/part-00018-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=邵阳市/.part-00126-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=邵阳市/part-00126-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=郴州市/.part-00051-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=郴州市/part-00051-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=长沙市/.part-00119-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=湖南省/cityname=长沙市/part-00119-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=甘肃省/cityname=兰州市/.part-00075-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=甘肃省/cityname=兰州市/part-00075-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=甘肃省/cityname=张掖市/.part-00026-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=甘肃省/cityname=张掖市/part-00026-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=福建省/cityname=三明市/.part-00176-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=福建省/cityname=三明市/part-00176-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=福建省/cityname=厦门市/.part-00023-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=福建省/cityname=厦门市/part-00023-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=福建省/cityname=宁德市/.part-00096-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=福建省/cityname=宁德市/part-00096-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=福建省/cityname=泉州市/.part-00061-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=福建省/cityname=泉州市/part-00061-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=福建省/cityname=漳州市/.part-00036-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=福建省/cityname=漳州市/part-00036-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=福建省/cityname=福州市/.part-00146-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=福建省/cityname=福州市/part-00146-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=福建省/cityname=莆田市/.part-00128-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=福建省/cityname=莆田市/part-00128-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=福建省/cityname=龙岩市/.part-00185-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=福建省/cityname=龙岩市/part-00185-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=西藏自治区/cityname=拉萨市/.part-00185-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=西藏自治区/cityname=拉萨市/part-00185-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=西藏自治区/cityname=未知/.part-00169-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=西藏自治区/cityname=未知/part-00169-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=贵州省/cityname=安顺市/.part-00054-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=贵州省/cityname=安顺市/part-00054-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=贵州省/cityname=贵阳市/.part-00112-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=贵州省/cityname=贵阳市/part-00112-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=贵州省/cityname=遵义市/.part-00091-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=贵州省/cityname=遵义市/part-00091-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=贵州省/cityname=黔西南布依族苗族自治未知/.part-00071-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=贵州省/cityname=黔西南布依族苗族自治未知/part-00071-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=丹东市/.part-00197-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=丹东市/part-00197-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=大连市/.part-00055-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=大连市/part-00055-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=抚顺市/.part-00069-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=抚顺市/part-00069-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=朝阳市/.part-00120-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=朝阳市/part-00120-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=沈阳市/.part-00007-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=沈阳市/part-00007-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=营口市/.part-00178-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=营口市/part-00178-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=葫芦岛市/.part-00061-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=葫芦岛市/part-00061-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=辽阳市/.part-00143-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=辽阳市/part-00143-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=铁岭市/.part-00042-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=铁岭市/part-00042-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=阜新市/.part-00020-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=阜新市/part-00020-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=鞍山市/.part-00024-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=辽宁省/cityname=鞍山市/part-00024-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=重庆市/cityname=重庆市/.part-00100-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=重庆市/cityname=重庆市/part-00100-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=陕西省/cityname=咸阳市/.part-00027-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=陕西省/cityname=咸阳市/part-00027-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=陕西省/cityname=安康市/.part-00162-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=陕西省/cityname=安康市/part-00162-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=陕西省/cityname=宝鸡市/.part-00146-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=陕西省/cityname=宝鸡市/part-00146-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=陕西省/cityname=未知/.part-00120-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=陕西省/cityname=未知/part-00120-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=陕西省/cityname=榆林市/.part-00110-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=陕西省/cityname=榆林市/part-00110-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=陕西省/cityname=渭南市/.part-00054-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=陕西省/cityname=渭南市/part-00054-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=陕西省/cityname=西安市/.part-00057-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=陕西省/cityname=西安市/part-00057-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=青海省/cityname=西宁市/.part-00192-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=青海省/cityname=西宁市/part-00192-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=七台河市/.part-00018-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=七台河市/part-00018-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=佳木斯市/.part-00107-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=佳木斯市/part-00107-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=双鸭山市/.part-00013-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=双鸭山市/part-00013-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=哈尔滨市/.part-00021-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=哈尔滨市/part-00021-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=大庆市/.part-00169-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=大庆市/part-00169-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=牡丹江市/.part-00165-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=牡丹江市/part-00165-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=绥化市/.part-00120-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=绥化市/part-00120-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=鸡西市/.part-00042-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=鸡西市/part-00042-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=黑河市/.part-00074-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=黑河市/part-00074-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=齐齐哈尔市/.part-00012-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out3/provincename=黑龙江省/cityname=齐齐哈尔市/part-00012-8f92f2db-8cca-4824-85ce-61d04341f1fb.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out4/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out4/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out4/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out4/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out5/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out5/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out5/.part-00001.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out5/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out5/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out5/part-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out6/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out6/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out6/.part-00001.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out6/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out6/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out6/part-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out7/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out7/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out7/.part-00001.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out7/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out7/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out7/part-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out8/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out8/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out8/.part-00001.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out8/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out8/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out8/part-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/project1/APP_5.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/project1/BusinessTag.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/project1/Client_9.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/project1/DeviceType_8.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/project1/IsPname_6.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/project1/LocationRpt_2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/project1/LogParquet_1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/project1/NetWorkMannerName_7.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/project1/PerCity_3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/project1/SQLConnect_4.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/project1/TagsAd.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/project1/TagsContext.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/utils/AmapUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/utils/HttpUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/utils/JedisConnectionPool.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/utils/RptUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/utils/SchemaUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/utils/StringTypes.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/utils/TagTrait.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/qf/utils/TagUtil.scala" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1129840212">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="conf" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="part-00000" value="8" />
+          <entry key="part-00001" value="5" />
+          <entry key="scala" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HOCON" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Scala" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="conf" value="15" />
+          <entry key="scala" value="685" />
+          <entry key="txt" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HOCON" value="15" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Scala" value="685" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/utils/StringTypes.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-46">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/utils/TagTrait.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/utils/TagUtil.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <folding>
+                <element signature="e#22#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/utils/HttpUtil.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+              <folding>
+                <element signature="e#22#67#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/utils/AmapUtil.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/utils/JedisConnectionPool.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/project1/BusinessTag.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+              <folding>
+                <element signature="e#25#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/project1/TagsAd.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-78">
+              <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+              <folding>
+                <element signature="e#25#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/project1/TagsContext.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#25#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/utils/StringTypes.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/utils/SchemaUtil.scala" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.conf" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/project1/SQLConnect_4.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/project1/LogParquet_1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/project1/LocationRpt_2.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/project1/PerCity_3.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/project1/APP_5.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/project1/NetWorkMannerName_7.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/project1/IsPname_6.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/project1/DeviceType_8.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/utils/RptUtil.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/project1/Client_9.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/utils/TagTrait.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/utils/TagUtil.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/utils/HttpUtil.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/utils/AmapUtil.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/utils/JedisConnectionPool.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/project1/BusinessTag_10.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/project1/TagsAd.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/project1/BusinessTag.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/qf/project1/TagsContext.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/Hadoop/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="F:\Hadoop\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Spark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Spark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="56" />
+    <option name="y" value="57" />
+    <option name="width" value="949" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569256559078" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qf.project1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client_9">
+    <configuration name="APP_5" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.qf.project1.APP_5" />
+      <module name="Spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.project1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client_9" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.qf.project1.Client_9" />
+      <module name="Spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.project1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeviceType_8" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.qf.project1.DeviceType_8" />
+      <module name="Spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.project1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsPname_6" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.qf.project1.IsPname_6" />
+      <module name="Spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.project1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetWorkMannerName_7" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.qf.project1.NetWorkMannerName_7" />
+      <module name="Spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.project1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.APP_5" />
+      <item itemvalue="Application.IsPname_6" />
+      <item itemvalue="Application.NetWorkMannerName_7" />
+      <item itemvalue="Application.DeviceType_8" />
+      <item itemvalue="Application.Client_9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client_9" />
+        <item itemvalue="Application.DeviceType_8" />
+        <item itemvalue="Application.NetWorkMannerName_7" />
+        <item itemvalue="Application.IsPname_6" />
+        <item itemvalue="Application.APP_5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7909d85-75a2-4161-ae32-f4c6d8531728" name="Default Changelist" comment="" />
+      <created>1569168495323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569168495323</updated>
+      <workItem from="1569168499388" duration="3526000" />
+      <workItem from="1569200542025" duration="11384000" />
+    </task>
+    <task id="LOCAL-00001" summary="Project">
+      <created>1569169755478</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569169755478</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14910000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32840723" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32840723" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Bean Validation" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Spark.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/utils/SchemaUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out2/part-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1748">
+          <caret line="86" column="34" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/project1/SQLConnect_4.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+          <folding>
+            <element signature="e#27#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/project1/PerCity_3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out4/part-00000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/project1/LocationRpt_2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding>
+            <element signature="e#25#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/project1/LogParquet_1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-538">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding>
+            <element signature="e#25#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out5/part-00001">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out5/part-00000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out6/part-00001">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out6/part-00000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/project1/NetWorkMannerName_7.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out7/part-00001">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out7/part-00000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/utils/RptUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/project1/DeviceType_8.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out8/part-00000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out8/part-00001">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="44" lean-forward="true" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/project1/IsPname_6.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding>
+            <element signature="e#25#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/project1/Client_9.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="30" column="54" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/utils/StringTypes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/utils/TagTrait.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/utils/TagUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <element signature="e#22#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/utils/JedisConnectionPool.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/utils/AmapUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/utils/HttpUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding>
+            <element signature="e#22#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/project1/APP_5.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="26" column="66" selection-start-line="22" selection-start-column="67" selection-end-line="26" selection-end-column="66" />
+          <folding>
+            <element signature="e#26#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/project1/TagsContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#25#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/project1/TagsAd.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="e#25#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/qf/project1/BusinessTag.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#25#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spark</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apache.hbase:hbase:1.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
