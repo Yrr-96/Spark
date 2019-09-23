@@ -1,4 +1,4 @@
-package com.qf.project1
+package com.qf.project
 
 import com.qf.utils.TagTrait
 import org.apache.commons.lang3.StringUtils

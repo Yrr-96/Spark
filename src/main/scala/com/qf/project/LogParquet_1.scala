@@ -1,4 +1,4 @@
-package com.qf.project1
+package com.qf.project
 
 import com.qf.utils.{SchemaUtil, StringTypes}
 import org.apache.spark.sql.{Row, SQLContext}

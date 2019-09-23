@@ -1,4 +1,4 @@
-package com.qf.project1
+package com.qf.project
 
 import ch.hsr.geohash.GeoHash
 import com.qf.utils.{AmapUtil, JedisConnectionPool, StringTypes, TagTrait}
