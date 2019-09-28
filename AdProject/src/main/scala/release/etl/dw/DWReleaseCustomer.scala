@@ -1,6 +1,7 @@
 package release.etl.dw
 
 import enums.ReleaseStatusEnum
+import org.apache.spark.SparkConf
 import org.apache.spark.sql.{SaveMode, SparkSession}
 import org.slf4j.{Logger, LoggerFactory}
 import release.constant.ReleaseConstant
